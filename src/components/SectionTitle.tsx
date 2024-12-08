@@ -8,6 +8,6 @@ export const SectionTitle = styled.h2`
     text-transform: uppercase;
     color: #fff;
     text-align: center;
-    padding-top: 108px;
+    //padding-top: 108px;
     padding-bottom: 50px;
    `
