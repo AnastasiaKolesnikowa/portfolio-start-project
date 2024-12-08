@@ -18,7 +18,7 @@ export const Contact = () => {
 };
 
 const StyledContact = styled.div`
-    min-height: 50vh;
+    min-height: 70vh;
     background-color: #1f1f20;
    `
 
