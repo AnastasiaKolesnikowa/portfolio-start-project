@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AnastasiaKolesnikowa/portfolio-start-project/static/css/main.e6c13ad2.css",
-    "main.js": "/AnastasiaKolesnikowa/portfolio-start-project/static/js/main.933b507a.js",
-    "static/js/787.25eaef86.chunk.js": "/AnastasiaKolesnikowa/portfolio-start-project/static/js/787.25eaef86.chunk.js",
-    "static/media/photo.jpg": "/AnastasiaKolesnikowa/portfolio-start-project/static/media/photo.f3c4d7b4acf3ed8ac5e6.jpg",
-    "static/media/project-1.png": "/AnastasiaKolesnikowa/portfolio-start-project/static/media/project-1.c47b2ea69a21282f89a6.png",
-    "static/media/project-2.png": "/AnastasiaKolesnikowa/portfolio-start-project/static/media/project-2.a765b609f4b6ff5af3f1.png",
-    "static/media/icons-sprite.svg": "/AnastasiaKolesnikowa/portfolio-start-project/static/media/icons-sprite.d907d7f71a0b545e835a5d8e4d3b05ba.svg",
-    "index.html": "/AnastasiaKolesnikowa/portfolio-start-project/index.html",
-    "main.e6c13ad2.css.map": "/AnastasiaKolesnikowa/portfolio-start-project/static/css/main.e6c13ad2.css.map",
-    "main.933b507a.js.map": "/AnastasiaKolesnikowa/portfolio-start-project/static/js/main.933b507a.js.map",
-    "787.25eaef86.chunk.js.map": "/AnastasiaKolesnikowa/portfolio-start-project/static/js/787.25eaef86.chunk.js.map"
+    "main.css": "/portfolio-start-project/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolio-start-project/static/js/main.1e128dfe.js",
+    "static/js/787.25eaef86.chunk.js": "/portfolio-start-project/static/js/787.25eaef86.chunk.js",
+    "static/media/photo.jpg": "/portfolio-start-project/static/media/photo.f3c4d7b4acf3ed8ac5e6.jpg",
+    "static/media/project-1.png": "/portfolio-start-project/static/media/project-1.c47b2ea69a21282f89a6.png",
+    "static/media/project-2.png": "/portfolio-start-project/static/media/project-2.a765b609f4b6ff5af3f1.png",
+    "static/media/icons-sprite.svg": "/portfolio-start-project/static/media/icons-sprite.d907d7f71a0b545e835a5d8e4d3b05ba.svg",
+    "index.html": "/portfolio-start-project/index.html",
+    "main.e6c13ad2.css.map": "/portfolio-start-project/static/css/main.e6c13ad2.css.map",
+    "main.1e128dfe.js.map": "/portfolio-start-project/static/js/main.1e128dfe.js.map",
+    "787.25eaef86.chunk.js.map": "/portfolio-start-project/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.933b507a.js"
+    "static/js/main.1e128dfe.js"
   ]
 }
