@@ -18,9 +18,8 @@ export const Main = () => {
     );
 };
 
-const StyledMain = styled.div`
+const StyledMain = styled.section`
     min-height: 100vh;
-    background: #1f1f20;
 `
 const TextBlock = styled.div`
 
@@ -36,17 +35,14 @@ const Name = styled.h2`
     font-weight: 700;
     font-size: 50px;
     letter-spacing: 0.05em;
-    color: #fff;
 `
 
 const MainTitle = styled.h2`
     font-weight: 400;
     font-size: 27px;
-    color: #fff;
 `
 
 const MainSpan = styled.h2`
     font-weight: 400;
     font-size: 14px;
-    color: #fff;
 `

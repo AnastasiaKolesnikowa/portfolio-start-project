@@ -33,7 +33,6 @@ export const Skills = () => {
 };
 
 const StyledSkills = styled.section`
-    background: #252527;
     min-height: 100vh;
     padding: 0 159px;
 `

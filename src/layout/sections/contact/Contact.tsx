@@ -17,13 +17,12 @@ export const Contact = () => {
     );
 };
 
-const StyledContact = styled.div`
+const StyledContact = styled.section`
     min-height: 70vh;
-    background-color: #1f1f20;
    `
 
 const StyledForm = styled.form`
-max-width: 540px;
+    max-width: 540px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -32,7 +31,6 @@ max-width: 540px;
 `
 
 const Field = styled.input`
-    background-color: #252527;
     border: 1px solid #4a4a4a;
 `
 

@@ -39,21 +39,16 @@ export const Footer = () => {
 const StyledFooter = styled.footer`
     background: #1f1f20;
     min-width: 30vh;
-    //display: flex;
-    //flex-direction: column;
-    //align-items: center;
 `
 
 const  Name = styled.span`
     font-weight: 700;
     font-size: 22px;
     letter-spacing: 0.14em;
-    color: #fff;
 `
 
 
 const SocialList = styled.ul`
-list-style: none;
     display: flex;
     gap: 30px;
    `

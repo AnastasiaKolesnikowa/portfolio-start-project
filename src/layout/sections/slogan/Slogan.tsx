@@ -16,7 +16,6 @@ export const Slogan = () => {
 };
 
 const StyledSlogan = styled.section`
-    background: #252527;
     min-width: 30vh;
 `
 

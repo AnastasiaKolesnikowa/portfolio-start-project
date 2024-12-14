@@ -29,8 +29,6 @@ const SkillTitle = styled.h3`
     font-size: 16px;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #fff;
-   
 `
 
 
@@ -38,6 +36,5 @@ const SkillText = styled.p`
     font-weight: 400;
     font-size: 14px;
     text-align: center;
-    color: #fff;
 `
 

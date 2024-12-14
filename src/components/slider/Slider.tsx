@@ -30,13 +30,11 @@ const StyledSlider = styled.div`
 const Slide = styled.div`
     max-width: 500px;
     text-align: center;
-    
 `
 
 const Text = styled.p`
     font-weight: 400;
     font-size: 14px;
-    color: #fff;
 `
 
 const Name = styled.span`
@@ -44,7 +42,6 @@ const Name = styled.span`
     font-size: 16px;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #fff;
 `
 
 const Pagination = styled.div`
@@ -54,7 +51,5 @@ const Pagination = styled.div`
         width: 10px;
         height: 10px;
         margin: 5px;
-        background-color: #7572d5;
-        
     }
 `
